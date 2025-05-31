@@ -1,10 +1,9 @@
-
 [![Android CI](https://github.com/igor-nechaev/actions/workflows/android.yml/badge.svg)](https://github.com/igor-nechaev/actions/workflows/android.yml)
 
 ## Скриншоты
 Latest category         |  Top category
 :-------------------------:|:-------------------------:
-![](https://github.com/igor-nechaev/blob/master/images/screen1.jpg)  |  ![](https://github.com/igor-nechaev/blob/master/images/screen2.jpg)
+![](https://raw.githubusercontent.com/igor-nechaev/DevTok/refs/heads/master/images/screen1.jpg)  |  ![](https://raw.githubusercontent.com/igor-nechaev/DevTok/refs/heads/master/images/screen2.jpg)
 ## Приложение для просмотра gif
 
 
@@ -12,6 +11,6 @@ Latest category         |  Top category
 
 ## Технологии
 
-- Jetpack, Hilt, Ktor
+- XML, Jetpack, Hilt, Ktor
 - Unit, Instrumental tests, but not all code coverage
 - Multi-modules, Clean architecture

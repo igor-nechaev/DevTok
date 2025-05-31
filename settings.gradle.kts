@@ -1,4 +1,4 @@
-rootProject.name = "Tinkoff Test App"
+rootProject.name = "DevTok"
 
 include(
     ":app",
