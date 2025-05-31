@@ -1,5 +1,4 @@
-[![Android CI](https://github.com/igor-nechaev/actions/workflows/android.yml/badge.svg)](https://github.com/igor-nechaev/actions/workflows/android.yml)
-
+[![Android CI](https://github.com/igor-nechaev/DevTok/actions/workflows/android.yml/badge.svg)](https://github.com/igor-nechaev/my-android-app/actions/workflows/android.yml)
 ## Скриншоты
 Latest category         |  Top category
 :-------------------------:|:-------------------------:
